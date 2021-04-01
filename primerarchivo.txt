@@ -1,0 +1,4 @@
+¡Bienvenidos! A este primer archivo de texto creado desde la plataforma replit apartir de código en Pyhton
+Este archivo será entretenido, pues aquí, contaremos historias...
+Comencemos 
+Esta es una historia, nunca antes contada. Es posible que hayan historias parecidas, pero ninguna como esta.
